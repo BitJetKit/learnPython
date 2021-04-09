@@ -1,1 +1,1 @@
-print("Hello World!")
+print("Consider this an Interactive Web Tutorial: Hello World!")
